@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Cafe/static/css/main.0c524b38.css",
+    "main.js": "/Cafe/static/js/main.55b84118.js",
+    "static/media/cafeinn.jpg": "/Cafe/static/media/cafeinn.df1cbe15aa6197f482a9.jpg",
+    "static/media/GettyImages.jpg": "/Cafe/static/media/GettyImages.679dcc49727ee0732cda.jpg",
+    "static/media/Bread Basket.jpg": "/Cafe/static/media/Bread Basket.eb126149cb28bca3f447.jpg",
+    "static/media/Honey Almond Granola with Fruits.avif": "/Cafe/static/media/Honey Almond Granola with Fruits.2095b9664c02364e50fd.avif",
+    "static/media/map.jpg": "/Cafe/static/media/map.f164b4bdad91e4ceeac8.jpg",
+    "static/media/Scrambled eggs.jpg": "/Cafe/static/media/Scrambled eggs.db145e56a91b4b278e3c.jpg",
+    "static/media/Belgian Waffle.jpg": "/Cafe/static/media/Belgian Waffle.9a80f142dfa6f2d09e55.jpg",
+    "static/media/coffee-shops-cafe.jpg": "/Cafe/static/media/coffee-shops-cafe.de9c01c30a3c95768e68.jpg",
+    "static/media/Iced tea.jpg": "/Cafe/static/media/Iced tea.5f59a6caa5cca5f8c981.jpg",
+    "static/media/coffee-icon.png": "/Cafe/static/media/coffee-icon.4fc99d6d8514677ca78f.png",
+    "static/media/Corretto.jpg": "/Cafe/static/media/Corretto.ab1c78bc480cf44ff3b5.jpg",
+    "static/media/Coffee.png": "/Cafe/static/media/Coffee.5eaa990c8ffa479fd3ac.png",
+    "static/media/coffee-shop.jpg": "/Cafe/static/media/coffee-shop.2611ccb10e5c9f8987f7.jpg",
+    "static/media/coffeehouse.jpg": "/Cafe/static/media/coffeehouse.89fdedaf27ae9524c1d5.jpg",
+    "static/media/Soda.jpg": "/Cafe/static/media/Soda.f420a2a201e78cff76f3.jpg",
+    "static/media/Blueberry Pancakes.jpg": "/Cafe/static/media/Blueberry Pancakes.7b78becf40cb70094435.jpg",
+    "static/media/café-coffee-shop.webp": "/Cafe/static/media/café-coffee-shop.4010f6f537966747cb63.webp",
+    "static/media/Boutique Christmas TTF Personal.ttf": "/Cafe/static/media/Boutique Christmas TTF Personal.3ef7de77a79cd091692e.ttf",
+    "static/media/coffeeshop.jpg": "/Cafe/static/media/coffeeshop.761fc4253a77f6efef75.jpg",
+    "static/media/Hand.png": "/Cafe/static/media/Hand.d60d43ec6f7dc9f0e8b4.png",
+    "index.html": "/Cafe/index.html",
+    "main.0c524b38.css.map": "/Cafe/static/css/main.0c524b38.css.map",
+    "main.55b84118.js.map": "/Cafe/static/js/main.55b84118.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c524b38.css",
+    "static/js/main.55b84118.js"
+  ]
+}
